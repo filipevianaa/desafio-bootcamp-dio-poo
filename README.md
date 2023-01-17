@@ -43,6 +43,10 @@ Atributos da classe Dev:
   - Conteúdos Inscritos;
   - Conteúdos Concluídos;
   
+A classe Dev possui os métodos para inscrever no bootcamp, progredir e calcular o XP total.
+
+
+  
  
    
  
